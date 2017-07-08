@@ -6,6 +6,8 @@ In this project, I want to find a unsupervised way to seperate galaxies and star
 TODOs:
 ### 1.Use Galaxy Zoo data
 VAE + HypCol vs. CNNs + surrogate class + HypCol
+
+https://github.com/EdwardJKim/unsupervised-dl4astro/blob/master/notebooks/kmeans.ipynb
 ### 2.On other datasets
 
 
