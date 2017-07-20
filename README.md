@@ -8,13 +8,21 @@ TODOs:
 VAE + HypCol vs. CNNs + surrogate class + HypCol
 
 https://github.com/EdwardJKim/unsupervised-dl4astro/blob/master/notebooks/kmeans.ipynb
-### 2.On other datasets
+### 2.On SDSS datasets
 
 
 
 
-CAE for galaxy zoo.ipynb
+gala.ipynb
 -----
-CAE for galaxy zoo is the first exp of this part
-with 4 Conv-Pool layers in encoder 
-and 4 Conv-Upsamp layers in decoder
+on galaxy zoo dataset
+
+SDSS.ipynb
+----
+on SDSS dataset
+
+cutfigure.py
+----
+to cut figures of galaxy zoo dataset
+
+
