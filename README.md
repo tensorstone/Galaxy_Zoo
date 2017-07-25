@@ -30,6 +30,11 @@ SDSS_clustering.ipynb
 use manifold learning method to imporve the accuracy of classification result.
 use both 2D and 3D hidden variables as inputs
 
+TC(1).ipynb
+----
+use several different VAE structures to help clustering/hidden layer classification process
+
+
 initial_normalization.ipynb
 ----
 Kmeans clustering with the original normalization method(-mean,/max)
