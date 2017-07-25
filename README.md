@@ -25,4 +25,8 @@ cutfigure.py
 ----
 to cut figures of galaxy zoo dataset
 
+initial_normalization.ipynb
+----
+Kmeans clustering with the original normalization method(-mean,/max)
+
 
