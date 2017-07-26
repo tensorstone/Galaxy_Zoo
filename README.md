@@ -40,3 +40,6 @@ initial_normalization.ipynb
 Kmeans clustering with the original normalization method(-mean,/max)
 
 
+RepW4.ipynb
+----
+Report for week 4
