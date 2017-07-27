@@ -43,3 +43,7 @@ Kmeans clustering with the original normalization method(-mean,/max)
 RepW4.ipynb
 ----
 Report for week 4
+
+some of the code are from Edward Kim:
+
+https://github.com/EdwardJKim/unsupervised-dl4astro/blob/master/notebooks/kmeans.ipynb
