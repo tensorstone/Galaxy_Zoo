@@ -46,4 +46,4 @@ Report for week 4
 
 some of the code is credit to Edward Kim:
 
-https://github.com/EdwardJKim/unsupervised-dl4astro/blob/master/notebooks/kmeans.ipynb
+https://github.com/EdwardJKim/unsupervised-dl4astro/
