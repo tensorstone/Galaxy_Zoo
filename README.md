@@ -44,6 +44,6 @@ RepW4.ipynb
 ----
 Report for week 4
 
-some of the code are from Edward Kim:
+some of the code is credit to Edward Kim:
 
 https://github.com/EdwardJKim/unsupervised-dl4astro/blob/master/notebooks/kmeans.ipynb
