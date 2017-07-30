@@ -47,3 +47,12 @@ Report for week 4
 some of the code is credit to Edward Kim:
 
 https://github.com/EdwardJKim/unsupervised-dl4astro/
+
+
+Find+physics_failed.ipynb
+---
+Compare size/luminosity of objects and the hidden variables
+
+seems only one hidden variable is useful
+
+can not use such hidden variables to predict the redshift 
