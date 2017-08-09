@@ -56,3 +56,20 @@ Compare size/luminosity of objects and the hidden variables
 seems only one hidden variable is useful
 
 can not use such hidden variables to predict the redshift 
+
+15epoch_3hidden_newone0808.h5
+---
+Model saved in Classification+result+is+better+when+I+use+5+channels.ipynb
+
+Classification+result+is+better+when+I+use+5+channels.ipynb
+----
+A good Classification result with ROC curve
+
+The overall acc reached 88.8%
+
+Correct+normalization+%26+great+segmentation.ipynb
+----
+together with the saved parameters: Correct_normalization_great_segmentation0807.h5.zip
+
+Only use the 4th channel (i channel) instead use all of the 5 channels in segmentation. Got much better result than before
+
