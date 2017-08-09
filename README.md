@@ -73,3 +73,11 @@ together with the saved parameters: Correct_normalization_great_segmentation0807
 
 Only use the 4th channel (i channel) instead use all of the 5 channels in segmentation. Got much better result than before
 
+
+RepW6_high_performance_result.ipynb,(1) is the most recent one
+---
+Reached the highest accuracy of 88.8%
+
+Combined the results by Aug.8
+![image](https://github.com/tensorstone/Galaxy_Zoo/blob/master/FIG.001.jpeg)
+
