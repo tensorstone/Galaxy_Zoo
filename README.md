@@ -81,3 +81,8 @@ Reached the highest accuracy of 88.8%
 Combined the results by Aug.8
 ![image](https://github.com/tensorstone/Galaxy_Zoo/blob/master/FIG.001.jpeg)
 
+Try_more_hidden_variables.ipynb
+-----
+Better segmentation result when I use AE instead of VAE.(It should be like this)
+
+and some result are saved in OneNote
