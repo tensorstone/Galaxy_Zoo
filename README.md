@@ -86,3 +86,14 @@ Try_more_hidden_variables.ipynb
 Better segmentation result when I use AE instead of VAE.(It should be like this)
 
 and some result are saved in OneNote
+
+
+A Pseudo Wasserstein loss.ipynb
+----
+The result here is pretty like when I used L2 regularizer
+
+Accurate_KL_and_Pseudo_Wasserstein_loss.ipynb
+-----
+Compared several reasonable loss functions.
+
+I calculate those loss function using Mathematica. The .nb files are also uploaded
